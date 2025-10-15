@@ -1,4 +1,4 @@
-# C-programming
-Learning C-Programming Basic to Adavance
+# C Programming
+Learning C Programming from Basics to Adavance
 <br>
-Authour:Praveen kumar B
+Author: Praveen kumar B
